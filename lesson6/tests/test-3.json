@@ -1,0 +1,23 @@
+[
+    {
+        "question": "Сколько цветов в радуге?",
+        "answers": [
+            {
+                "answer": "5",
+                "result": false
+            },
+            {
+                "answer": "8",
+                "result": false
+            },
+            {
+                "answer": "9",
+                "result": false
+            },
+            {
+                "answer": "7",
+                "result": true
+            }
+        ]
+    }
+]
